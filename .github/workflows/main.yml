@@ -24,10 +24,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    
-      - name: Run build script
-        run: ./.github/workflows/scripts/build.sh
-        shell: bash
         
       - name: Run a script file from repo
         run: sh ./runTest.sh
