@@ -26,12 +26,9 @@ jobs:
     steps:
     
       - name: Run build script
-        run: ..//runTest.sh
+        run: ./.github/scripts/build.sh
         shell: bash
         
-      - name: Run build script
-        run: ls
-        shell: bash
         
 #       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 #       - name: Checkout
