@@ -6,7 +6,7 @@ results=PerfTest_Results_$time
 mkdir ./$results
 mkdir ./HTMLReport_$time
 echo "test starting"
-nohup sh apache-jmeter-5.4.3/bin/jmeter.sh CTFO.jmx
+nohup sh apache-jmeter-5.4.3/bin/jmeter.sh ./CTFO.jmx
 mv ./HTMLReport_$time ./$results
 mv ./$projectName.jtl ./$results
 mv ./jmeter.log ./$results
