@@ -1,0 +1,13 @@
+loadtest:
+  stage: build
+  image: 
+    name: justb4/jmeter:latest
+    entrypoint: [""]
+  script:
+    - mkdir testresults
+    - /entrypoint.sh -n -t ./CTFO.jmx -l ./testresults.log -e -o ./testresults
+  only:
+    - schedules
+  artifacts:
+    paths:
+      - testresults
