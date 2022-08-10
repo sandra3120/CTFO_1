@@ -30,4 +30,8 @@ jobs:
         with:
           name: jmeter-results
           path: result.jtl
+          
+      - name: Run build script
+        run: runTest.sh
+        shell: bash
 
