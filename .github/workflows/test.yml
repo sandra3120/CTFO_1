@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: sh CTFO_1/runTest.sh
+        run: sh ./runTest.sh
