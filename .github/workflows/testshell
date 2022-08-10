@@ -1,0 +1,11 @@
+on: 
+  push:
+name: Job
+jobs:          
+  build:
+    name: Build
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Run shell
+        run: |
+             echo "Shell commands here"
