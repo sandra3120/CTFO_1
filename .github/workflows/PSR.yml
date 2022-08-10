@@ -32,6 +32,6 @@ jobs:
           path: result.jtl
           
       - name: Run build script
-        run: runTest.sh
+        run: sh runTest.sh
         shell: bash
 
