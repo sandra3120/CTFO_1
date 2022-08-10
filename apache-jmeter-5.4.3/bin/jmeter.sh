@@ -109,4 +109,4 @@ JMETER_COMPLETE_ARGS=true
 JVM_ARGS="$JAVA9_OPTS $JVM_ARGS"
 export JVM_ARGS JMETER_COMPLETE_ARGS
 
-"${PRGDIR}/jmeter" "$@"
+# "${PRGDIR}/jmeter" "$@"
