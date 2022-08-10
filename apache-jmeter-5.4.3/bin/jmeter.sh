@@ -98,9 +98,9 @@ echo $JAVA_HOME
 echo $CURRENT_VERSION
 echo $MINIMAL_VERSION
 # Check if Java is present and the minimal version requirement
-if [ "$CURRENT_VERSION" -gt "$MINIMAL_VERSION" ]; then
-    JAVA9_OPTS="--add-opens java.desktop/sun.awt=ALL-UNNAMED --add-opens java.desktop/javax.swing.text.html=ALL-UNNAMED --add-opens java.desktop/sun.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED"
-fi
+# if [ "$CURRENT_VERSION" -gt "$MINIMAL_VERSION" ]; then
+#     JAVA9_OPTS="--add-opens java.desktop/sun.awt=ALL-UNNAMED --add-opens java.desktop/javax.swing.text.html=ALL-UNNAMED --add-opens java.desktop/sun.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED"
+# fi
 
 # Don't add additional arguments to the JVM start, except those needed for Java 9
 JMETER_COMPLETE_ARGS=true
