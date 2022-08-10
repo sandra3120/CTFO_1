@@ -1,0 +1,52 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+IDMloginsuperadmin,20,701,284,1203,331.18,0.000%,.12201,51.40,2.41,431368.2
+launch,10,437,284,1150,251.89,0.000%,.06368,9.33,0.39,150001.0
+login-details,10,771,603,1230,190.65,0.000%,.06403,0.07,0.06,1056.7
+update-user-scenario-temp,10,702,520,1176,229.22,0.000%,.06410,0.05,0.07,780.0
+scenario-list,10,807,664,1187,153.98,0.000%,.06398,1.13,0.08,18022.4
+login,10,3248,2819,4001,388.56,0.000%,.06298,45.06,2.31,732594.4
+insert into user activity,10,886,454,1816,429.15,0.000%,.06376,0.22,0.08,3611.1
+country prioritization display edit,10,1327,716,2143,483.04,0.000%,.06309,1.38,0.10,22355.5
+Debug Sampler,30,0,0,1,0.48,0.000%,.14575,0.51,0.00,3589.8
+site get-survey-detailedit,10,1055,515,1825,510.13,0.000%,.06271,0.05,0.08,790.0
+country-get-survey-details-edit,10,967,477,2835,669.90,0.000%,.06184,0.05,0.08,790.0
+pi-rank display edit,10,1327,846,2979,641.11,0.000%,.06092,0.88,0.10,14847.0
+Ccountrynarrowresults-edit,10,924,516,1803,438.28,0.000%,.06066,0.04,0.08,736.0
+last-module-activated edit,20,946,349,2060,575.70,0.000%,.10022,0.07,0.13,751.0
+Edit-country rank display calls-navigation from scenario list to CP,10,7271,4502,14300,3046.87,0.000%,.05890,2.93,0.56,50962.2
+BeanShell Sampler,20,0,0,3,0.74,5.000%,.09873,0.00,0.00,.0
+COupdate-country-survey-flag-details,10,826,597,1117,195.94,0.000%,.06016,0.05,0.12,788.8
+COcountry-rank-save-edit,10,1932,1426,2601,324.30,0.000%,.05964,1.30,0.10,22353.1
+SOpi-rank-save,10,2955,2423,3510,377.81,0.000%,.05890,0.60,0.10,10379.0
+COsite-rank-save-edit,10,2934,1621,4171,766.89,0.000%,.05833,0.77,0.10,13555.3
+update-scenario-status-edit,10,1414,857,2416,538.97,0.000%,.05833,0.05,0.07,802.2
+display-scenario-status-edit,10,1142,627,2439,595.03,0.000%,.05806,0.05,0.07,867.0
+COcountry-get-survey-details-edit,10,834,580,1351,230.29,0.000%,.05795,0.04,0.07,790.0
+COget-country-outreach-details-edit,10,1020,753,1357,186.72,0.000%,.05792,0.66,0.11,11612.0
+save country priortization and country outreach navigation-edit,10,13061,9892,17873,2577.28,0.000%,.05499,3.28,0.69,61147.4
+scenario mapview,10,864,612,1338,258.25,0.000%,.05798,0.54,0.08,9609.3
+SPsites screen get-survey-details-edit,10,1071,573,1912,368.64,0.000%,.05781,0.06,0.07,986.0
+SPsite-rank-display,10,1292,799,2028,325.73,0.000%,.05758,1.09,0.10,19315.4
+SPtags-narrow-result,20,1179,545,2449,655.23,0.000%,.11235,0.09,0.16,841.9
+SPregion-narrow-result,10,1339,552,3004,827.12,0.000%,.05679,0.06,0.08,1160.8
+navigation to sites Priortization-edit,10,8036,5100,13445,2889.58,0.000%,.05538,2.01,0.54,37194.2
+save-site-curr-optimisation-flag-edit,10,836,578,1524,263.55,0.000%,.05685,0.04,0.12,795.2
+SOcountry-rank-save-edit,10,1992,1565,2387,306.98,0.000%,.05632,0.82,0.10,14922.1
+SOsite-rank-save-edit,10,2608,1245,3050,499.70,0.000%,.05596,1.05,0.10,19264.1
+SOpi-rank-save-edit,10,3270,2657,4384,492.21,0.000%,.05571,0.56,0.09,10379.0
+SOupdate-scenario-status-edit,10,1210,653,2358,450.31,0.000%,.05621,0.04,0.07,802.2
+SOdisplay-scenario-status-edit,10,1320,692,2539,568.53,0.000%,.05620,0.05,0.07,867.0
+SOget-survey-details-edit,10,1094,508,2390,569.45,0.000%,.05627,0.05,0.07,986.0
+SOget-site-outreach-details-edit,10,1569,675,3106,703.30,0.000%,.05622,0.04,0.13,797.0
+navigation to sites outreach-edit,10,13902,10674,18725,2564.23,0.000%,.05343,2.55,0.71,48812.6
+country flyout-trials,10,982,678,1505,281.19,0.000%,.05644,0.08,0.07,1419.0
+country flyout sites-investigators,10,1051,794,1764,328.59,0.000%,.05641,0.05,0.07,865.3
+country flyout-clinical-trials,10,865,664,1245,168.28,0.000%,.05644,0.04,0.07,747.0
+country flyout-get-survey-prioritization-details-flyout,10,1311,814,2084,340.85,0.000%,.05632,0.12,0.08,2150.0
+country flyout-drug-profile,10,1239,709,1932,339.65,0.000%,.05647,0.12,0.07,2099.0
+country flyout services,10,5448,4009,6827,871.43,0.000%,.05540,0.39,0.36,7280.3
+siteflyout-site-detail-non affiliated,10,1372,817,3168,657.15,0.000%,.05667,2.46,0.08,44528.0
+site flyout-get-survey-prioritization-details-flyout,10,1347,677,2978,709.61,0.000%,.05681,0.04,0.08,786.0
+site flyout-site-detail-affiliated_investigators,10,1314,677,2396,497.18,0.000%,.05675,0.68,0.08,12270.0
+site flyout services,10,4035,2407,7150,1564.51,0.000%,.05618,3.16,0.24,57584.0
+TOTAL,560,1980,0,18725,2834.10,0.179%,2.15137,85.96,7.59,40913.4

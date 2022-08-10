@@ -1,0 +1,52 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+IDMloginsuperadmin,20,742,314,1212,345.31,0.000%,.20517,86.43,3.99,431364.5
+launch,10,416,314,817,137.53,0.000%,.11070,16.22,0.67,150001.0
+login-details,10,1194,643,1699,370.91,0.000%,.10977,0.11,0.11,1056.7
+update-user-scenario-temp,10,1407,579,2782,600.58,0.000%,.10765,0.08,0.12,780.0
+scenario-list,10,1741,781,3053,773.89,0.000%,.10485,2.17,0.13,21186.9
+login,10,5410,3207,8569,1519.79,0.000%,.10195,73.25,3.69,735751.7
+insert into user activity,10,1379,451,2413,598.69,0.000%,.10359,0.37,0.13,3611.1
+country prioritization display edit,10,1912,810,3182,692.47,0.000%,.10170,2.22,0.16,22353.1
+Debug Sampler,30,0,0,1,0.40,0.000%,.20734,0.71,0.00,3503.2
+site get-survey-detailedit,10,1914,631,3531,917.30,0.000%,.09996,0.08,0.12,790.0
+country-get-survey-details-edit,10,1195,679,1675,356.12,0.000%,.09914,0.08,0.12,790.0
+pi-rank display edit,10,1494,853,2638,624.83,0.000%,.09813,1.42,0.16,14847.0
+Ccountrynarrowresults-edit,10,1100,491,1941,554.14,0.000%,.09742,0.07,0.13,736.0
+last-module-activated edit,20,1376,352,2740,794.38,0.000%,.14388,0.11,0.18,751.0
+Edit-country rank display calls-navigation from scenario list to CP,10,10302,5008,16217,3891.42,0.000%,.09189,4.55,0.88,50706.3
+BeanShell Sampler,20,1,1,2,0.36,5.000%,.14166,0.00,0.00,.0
+COupdate-country-survey-flag-details,10,1597,921,2307,432.91,0.000%,.09439,0.07,0.18,788.8
+COcountry-rank-save-edit,10,2635,1928,3050,321.17,0.000%,.09339,2.04,0.16,22355.5
+SOpi-rank-save,10,3580,2336,5308,905.57,0.000%,.09211,0.93,0.15,10379.0
+COsite-rank-save-edit,10,3292,1431,5137,1007.23,0.000%,.09083,1.20,0.16,13555.3
+update-scenario-status-edit,10,1582,773,2736,654.65,0.000%,.09151,0.07,0.11,802.2
+display-scenario-status-edit,10,1640,742,3031,705.23,0.000%,.09072,0.08,0.10,867.0
+COcountry-get-survey-details-edit,10,1889,618,3506,914.82,0.000%,.08919,0.07,0.11,790.0
+COget-country-outreach-details-edit,10,2074,1018,3338,649.74,0.000%,.08812,0.99,0.17,11560.9
+save country priortization and country outreach navigation-edit,10,18293,11457,23269,3799.09,0.000%,.08074,4.82,1.01,61098.7
+scenario mapview,10,1673,730,2652,786.40,0.000%,.08909,0.84,0.12,9609.3
+SPsites screen get-survey-details-edit,10,1688,574,2454,706.61,0.000%,.08922,0.09,0.11,986.0
+SPsite-rank-display,10,2174,871,3684,816.54,0.000%,.08937,1.69,0.16,19314.4
+SPtags-narrow-result,20,1545,622,2957,702.84,0.000%,.17925,0.15,0.25,841.9
+SPregion-narrow-result,10,1578,598,2608,668.29,0.000%,.09179,0.10,0.13,1160.8
+navigation to sites Priortization-edit,10,11653,5292,16558,3728.84,0.000%,.08561,3.11,0.83,37186.7
+save-site-curr-optimisation-flag-edit,10,1471,675,3366,754.54,0.000%,.09105,0.07,0.20,795.2
+SOcountry-rank-save-edit,10,2738,1737,4084,688.71,0.000%,.09067,1.32,0.16,14924.5
+SOsite-rank-save-edit,10,3331,2799,4215,488.97,0.000%,.09123,1.72,0.16,19264.1
+SOpi-rank-save-edit,10,3842,2919,4865,631.96,0.000%,.09134,0.93,0.15,10379.0
+SOupdate-scenario-status-edit,10,1700,607,2314,613.36,0.000%,.09388,0.07,0.11,802.2
+SOdisplay-scenario-status-edit,10,1628,750,3081,715.32,0.000%,.09507,0.08,0.11,867.0
+SOget-survey-details-edit,10,1269,545,2127,609.30,0.000%,.09590,0.09,0.12,986.0
+SOget-site-outreach-details-edit,10,1852,809,3512,829.03,0.000%,.09713,0.08,0.23,797.0
+navigation to sites outreach-edit,10,17834,12085,24286,4166.10,0.000%,.08275,3.94,1.10,48815.0
+country flyout-trials,10,1288,736,3167,685.18,0.000%,.09845,0.14,0.12,1419.0
+country flyout sites-investigators,10,1519,726,2605,666.36,0.000%,.09869,0.08,0.13,865.3
+country flyout-clinical-trials,10,1556,708,2956,682.01,0.000%,.09921,0.07,0.13,747.0
+country flyout-get-survey-prioritization-details-flyout,10,1694,735,3413,803.69,0.000%,.10013,0.21,0.14,2150.0
+country flyout-drug-profile,10,1565,773,3155,843.28,0.000%,.10156,0.21,0.13,2099.0
+country flyout services,10,7625,3932,12936,3085.97,0.000%,.09544,0.68,0.62,7280.3
+siteflyout-site-detail-non affiliated,10,1459,785,2732,678.54,0.000%,.10399,4.52,0.15,44528.0
+site flyout-get-survey-prioritization-details-flyout,10,1375,666,2773,668.90,0.000%,.10626,0.08,0.16,786.0
+site flyout-site-detail-affiliated_investigators,10,1399,841,2947,753.81,0.000%,.10849,1.30,0.15,12262.0
+site flyout services,10,4233,2363,8248,2042.69,0.000%,.10238,5.76,0.43,57576.0
+TOTAL,560,2706,0,24286,3874.19,0.179%,2.81068,112.58,9.85,41014.8
