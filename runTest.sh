@@ -1,3 +1,4 @@
+echo "Test Started"
 projectName=CTFO
 scriptName=$projectName.jmx
 time=$(date "+%Y.%m.%d-%H.%M")
